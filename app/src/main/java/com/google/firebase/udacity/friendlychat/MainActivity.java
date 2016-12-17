@@ -37,7 +37,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-
+    // test
     private static final String TAG = "MainActivity";
 
     public static final String ANONYMOUS = "anonymous";
